@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.AssemblyInfo.cs
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConvrtingStringToNum\bin\Debug\net8.0\ConvrtingStringToNum.exe
+C:\Users\User\source\repos\ConvrtingStringToNum\bin\Debug\net8.0\ConvrtingStringToNum.deps.json
+C:\Users\User\source\repos\ConvrtingStringToNum\bin\Debug\net8.0\ConvrtingStringToNum.runtimeconfig.json
+C:\Users\User\source\repos\ConvrtingStringToNum\bin\Debug\net8.0\ConvrtingStringToNum.dll
+C:\Users\User\source\repos\ConvrtingStringToNum\bin\Debug\net8.0\ConvrtingStringToNum.pdb
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.dll
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\refint\ConvrtingStringToNum.dll
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.pdb
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ConvrtingStringToNum.genruntimeconfig.cache
+C:\Users\User\source\repos\ConvrtingStringToNum\obj\Debug\net8.0\ref\ConvrtingStringToNum.dll
